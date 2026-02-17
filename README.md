@@ -9,4 +9,4 @@ I leverage cutting-edge AI-tools to build high-impact solutions that drive effic
 
 ### Contact
 - 📧 email: michael.leniker@hotmail.com
-- 💼 LinkedIn: linkedin.com/in/michaelleniker
+- 💼 LinkedIn: https://www.linkedin.com/in/michaelleniker/
